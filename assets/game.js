@@ -24,9 +24,9 @@
     var noviceMode = true;
     var content = [
         " ",
-        "The OpenShift Evangelist Team presents",
+        "Red Hat & Pitney Bowes presents",
         " ",
-        "OpenShift, the Wild Wild West way"
+        "OpenShift DevOps Day, the Wild Wild West way"
     ];
     var locations = [
         [341, 409],  // door 1
