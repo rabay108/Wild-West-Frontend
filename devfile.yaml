@@ -33,7 +33,7 @@ commands:
   id: test
 components:
 - container:
-    image: registry.access.redhat.com/ubi8/nodejs-14:latest
+    image: registry.access.redhat.com/ubi8/nodejs-12:1-45
     memoryLimit: 1024Mi
     mountSources: true
     sourceMapping: /project
